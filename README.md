@@ -2,7 +2,7 @@
 Presenting an exclusive application tailored for the LB-Phone – Teetris.
 This game is a contemporary rendition of the classic Tetris, meticulously crafted to enhance your gaming enjoyment.
 
-![mfpscripts com](https://github.com/maxifaxipaxi-new/mfp_lb-teetris/assets/115405418/345931a8-9311-4688-a9c9-626eb48cd938)
+![mfpscripts com](https://github.com/maxifaxipaxi-new/mfp_lb-teetris/assets/115405418/9c4261ea-19e0-46d8-99df-d6f93294d095)
 ### This game is hosted by us and free to use on your fivem server!
 
 # Installation
